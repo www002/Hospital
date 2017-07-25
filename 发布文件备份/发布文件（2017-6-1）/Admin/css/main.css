@@ -1,0 +1,210 @@
+﻿/*所有页面的背景颜色*/
+body
+{
+	background: url(../Image/nr_bgc_01.jpg) left top repeat-x; /*height: 520px; 	min-height: 520px;*/
+	background-color: #C5C5C5;
+}
+a
+{
+	color: #000;
+	text-decoration: none;
+}
+a:hover
+{
+	text-decoration: none;
+}
+/*table样式*/
+.tab
+{
+	font-size: small;
+	border-collapse: collapse;
+	border-right: 1px solid #888;
+	border-left: 1px solid #888;
+	border-top: 1px solid #888;
+	border-bottom: 1px solid #888;
+	width:100%;
+}
+/*table中TD文本标题*/
+.tdName
+{
+	border-right: 0px solid #888;
+	border-bottom: 0px solid #888;
+	text-align: right;
+	background-color: #D6D6D6;
+	height: 16px; /*width: 105px;*/
+	width: 9%;
+}
+/*table中TD文本框*/
+.td
+{
+	border-right: 1px solid #888;
+	border-bottom: 1px solid #888;
+	border-left: 0px solid #888;
+	border-top: 0px solid #888;
+	height: 20px;
+	width:15%;
+	text-align: left;
+}
+.tds
+{
+	border-right: 1px solid #888;
+	border-bottom: 1px solid #888;
+	border-left: 0px solid #888;
+	border-top: 0px solid #888;
+	height: 20px;
+	width:35%;
+	text-align: left;
+}
+.tdBtnBg
+{
+	border-right: 0px solid #888;
+	border-bottom: 0px solid #888;
+	background-color: #D6D6D6;
+	width:15%;
+	height:40px;
+	margin:5px;
+}
+.td1
+{
+	border-top: 1px solid #888;
+	border-right: 1px solid #888;
+	border-bottom: 1px solid #888;
+	height: 20px;
+	padding: 0px 0px;
+	text-align: left;
+	width:auto;
+}
+
+/*文本框样式*/
+.txt
+{
+	border-right: 0px solid #888;
+	border-bottom: 0px solid #888;
+	border-top: 0px solid #888;
+	border-left: 0px solid #888;
+	width:98%;
+	height: 99%;
+}
+.datetxt
+{
+	border-right: 0px solid #888;
+	border-bottom: 0px solid #888;
+	border-top: 0px solid #888;
+	border-left: 0px solid #888;
+	padding-left: 0px;
+	width: auto;
+	height: 19px;
+}
+/*年度等固定下拉框样式*/
+.txtYearDDl
+{
+	border-right: 0px solid #888;
+	border-bottom: 0px solid #888;
+	border-top: 0px solid #888;
+	border-left: 0px solid #888;
+	width: 99%;
+	height: 100%;
+}
+
+.timetxt
+{
+	border-right: 0px solid #888;
+	border-bottom: 0px solid #888;
+	border-top: 0px solid #888;
+	border-left: 0px solid #888;
+}
+
+
+.tdd
+{
+	text-align: right;
+	font-size: smaller;
+}
+.text
+{
+	width: 150px;
+}
+
+/*下拉框样式*/
+.SELECT
+{
+	border-right: #000000 0px solid;
+	border-top: #FFFFFF 0px solid;
+	border-left: #FFFFFF 0px solid;
+	border-bottom: #000000 0px solid;
+	background-color: #f4f4f4;
+	font-size: 12px;
+	color: #003366;
+	width: 99%;
+	height: 99%;
+}
+
+.MultiEditBox
+{
+	background: #f8f8f8;
+	border-right: 0px solid #888;
+	border-bottom: 0px solid #888;
+	border-top: 0px solid #888;
+	border-left: 0px solid #888;
+	color: #000000;
+	cursor: text;
+	font-family: "Arial";
+	font-size: 9pt;
+	padding: 0px;
+}
+
+
+
+
+/*弹出层文本框在页面中的位置*/
+.txtA
+{
+	width:auto;
+	font-weight: bold;
+	color: #70B5DE;
+}
+.txtB
+{
+	border-right: 0px solid #888;
+	border-bottom: 0px solid #888;
+	border-top: 0px solid #888;
+	border-left: 0px solid #888; 
+	/*width: 85%;*/
+	width: 80%;
+}
+/*结束*/
+
+/*设置用户组"返回"按钮*/
+.fhBtn
+{
+	width: 20px;
+	text-align: center;
+}
+
+
+/*单击显示明细时选中行的背景色*/
+.selected{ background:#FF6500;color:#fff;}
+
+
+
+/*table中TD文本标题
+.tdNameAndroid
+{
+	border-right: 0px solid #888;
+	border-bottom: 0px solid #888;
+	text-align: right;
+	background-color: #D6D6D6;
+	height: 16px; 
+	width: 8%;
+}
+ 
+.tdAndroid
+{
+	border-right: 1px solid #888;
+	border-bottom: 1px solid #888;
+	border-left: 0px solid #888;
+	border-top: 0px solid #888;
+	height: 20px;
+	width:15%;
+	text-align: left;
+}*/

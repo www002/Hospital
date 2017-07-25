@@ -1,0 +1,59 @@
+﻿body
+{
+	font-size: 15px;
+}
+/* ImageButton*/
+.Imgbtn
+{
+	width: 25px;
+	height: 17px;
+	border-top: 0px;
+	margin-bottom: 0px;
+	margin-top: 5px;
+	padding-bottom: 0px;
+}
+.Pagetxt
+{
+	width: 30px;
+	height: 12px;
+}
+.PageDLL
+{
+	height: 20px;
+	padding-top:0px;
+}
+.daochu
+{	
+	background-color: #CBCBCB;
+	width: 50px;
+	height:20px;
+}
+
+
+
+.STYLE1
+{
+	font-size: 12px;
+}
+.firstbtns
+{
+	background-image: url(../Image/first.gif);
+	width: 39px;
+	height: 20px;
+	text-align: center;
+}
+/*跳转页的文本框验证*/
+.span
+{
+	color: Red;
+	visibility: visible;
+}
+
+
+/*GridView查询显示列*/
+.cb
+{
+	display: inline-block;
+	font-size: 13px;
+	width: 100%;
+}

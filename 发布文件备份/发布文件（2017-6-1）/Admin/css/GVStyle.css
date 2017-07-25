@@ -1,0 +1,97 @@
+﻿
+/*HeaderStyle: <HeaderStyle BackColor="#5D7B9D" Font-Bold="True" ForeColor="White" />*/
+.HeaderStyle
+{
+	background-color:#8CC2E4;
+	font-size:small;
+	font-weight:bolder;
+	text-align: center;
+	font: White;
+    height:25px;
+}
+.HeaderStyle a
+{
+	text-decoration: none;
+    color:Black;
+}
+
+
+/*RowStyle: <RowStyle BackColor="#F7F6F3" ForeColor="#333333" Font-Size="13px" HorizontalAlign="Left" Height="28px" />*/
+.RowStyle
+{
+	background-color:#F7F6F3;
+	font-size:11px;
+	text-align:center;
+	height:20px;
+	font:#333333;
+}
+/*
+.RowStyle td  
+{
+	padding: 3px;
+	border: solid 0.5px #1d1d1d;
+}
+*/
+
+
+
+/*AlternatingRowStyle: <AlternatingRowStyle BackColor="White" ForeColor="#284775" />*/
+.AlternatingRowStyle
+{
+	background-color:White;
+	font-size:11px;
+	text-align:center;
+	height:20px;
+	font:#333333;
+}
+/*
+.AlternatingRowStyle td  
+{
+	padding: 3px;
+	border: solid 0.5px #1d1d1d;
+}
+*/
+/*FooterStyle: <FooterStyle BackColor="#5D7B9D" Font-Bold="True" ForeColor="White" />*/
+.FooterStyle
+{
+	background-color:#5D7B9D;
+    font-weight:bolder;
+	font:White;
+}
+
+/*PagerStyle: <PagerStyle BackColor="#284775" ForeColor="White" HorizontalAlign="Center" />*/
+.PagerStyle
+{
+	background-color:#284775;
+	text-align:center;
+	font:White;
+}
+/*SelectedRowStyle: <SelectedRowStyle BackColor="#E2DED6" Font-Bold="True" ForeColor="#333333" />*/
+.SelectedRowStyle
+{
+	background-color:#E2DED6;
+	font-weight:bolder;
+	font:#333333;
+}
+
+/*EditRowStyle: <EditRowStyle BackColor="#999999" />*/
+.EditRowStyle
+{
+	background-color:#999999;
+}
+
+
+/*EmptyDataRowStyle: <EmptyDataRowStyle CssClass="EmptyRowStyle" />*/
+.EmptyDataRowStyle
+{
+	background-color:red;
+}
+
+
+
+
+ 
+            
+           
+            
+            

